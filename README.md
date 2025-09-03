@@ -1,6 +1,6 @@
 # To-Do-Ap
 
-# 📝 To-Do List App
+# 📝 QuickList — To-Do App
 
 A simple and interactive **To-Do List Web Application** built using **Python and Streamlit**.  
 This app helps users add, track, and manage their daily tasks with an intuitive interface.
